@@ -699,7 +699,6 @@
     background-image: url("../images/error-disc.svg");
     background-position: top 10px right 10px;
     background-repeat: no-repeat;
-  
   }
   
   .contact__input:not(:-ms-input-placeholder):not(:focus):invalid {
