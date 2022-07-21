@@ -184,24 +184,24 @@
     border: 2px solid transparent;
   }
   
-  .btn-group__btn-blue {
+  .btn-group__btn--blue {
     background-color: var(--main-blue-color);
     color: var(--main-white-color);
   
   }
   
-  .btn-group__btn-blue:hover {
+  .btn-group__btn--blue:hover {
     background-color: transparent;
     border: 2px solid #5267DF;
     color: var(--main-blue-color);
   }
   
-  .btn-group__btn-grey {
+  .btn-group__btn--grey {
     background-color: var(--main-grin-color);
     color: #242a45bf;
   }
   
-  .btn-group__btn-grey:hover {
+  .btn-group__btn--grey:hover {
     background-color: transparent;
     border: 2px solid #5B6074;
     color: var(--main-dark-blue-color);
